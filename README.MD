@@ -1,6 +1,6 @@
 
 
-### TEAM AI Authentication Tickets ### API Documentation
+### TEAM AI Authentication Tickets
 
 Welcome to the API documentation. This guide provides detailed information on authentication-related features that are crucial for integrating and using our API.
 
